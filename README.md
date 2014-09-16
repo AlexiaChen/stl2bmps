@@ -3,7 +3,9 @@ stl2bmps
 
 A library for converting a stl file into a bunch of bmp files.
 
-Building Requirement:
+Building Requirements:
+
+Qt 5.2.0 be installed on your system.
 
 This Project be built by cmake + nmake on windows platform only.
 
