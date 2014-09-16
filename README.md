@@ -2,7 +2,7 @@ stl2bmps
 ========
 
 A library for converting a stl file into a bunch of bmp files based on B9Creator this Open-Source Project.（see 
-here:https://github.com/B9Creations/B9Creator）.And I just simply separate some useful interfaces in B9Creator .
+here:https://github.com/B9Creations/B9Creator    ).   And I just simply separate some useful interfaces in B9Creator .
 
 Building Requirements:
 
