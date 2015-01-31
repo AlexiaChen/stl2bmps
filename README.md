@@ -1,24 +1,33 @@
 stl2bmps
 ========
 
-A library for converting a stl file into a bunch of bmp files based on B9Creator this Open-Source Project.（see 
-here:https://github.com/B9Creations/B9Creator    ).   And I just simply separate some useful interfaces in B9Creator .
+A library for converting a stl file into a bunch of bmp files.
 
-Building Requirements:
+##CodeBase
 
-Qt 5.2.0 be installed on your system.
+based on B9Creator this Open-Source Project.(see 
+here:https://github.com/B9Creations/B9Creator). And I just simply separate some useful interfaces in B9Creator .
 
-This Project be built by cmake + nmake on windows platform only.
+##Building Requirements:
 
-So,you need to config cmake + nmake enviroment of Visual Studio 2010. 
+1.Qt 5.2.0 or higher version need to be installed on your system.
 
-This is a dll project for windows platform.
+2.cmake need to be installed on your system.
 
-Building Instructions:
 
-(1). you shoud change work-directory by cd command, just like cd "D:\\temp\\stlbmp"
+##Support System
+
+Linux and windows
+
+##Building Instructions:
+
+###Windows
+
+(1). you shoud change work-directory into the root of this project by cd command.
 
 (2). Run Build.bat with Visual Studio 2010 x64 win64 Command Prompt(2010).
+
+###Linux
 
 
 
