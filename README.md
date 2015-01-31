@@ -23,7 +23,7 @@ Linux and windows
 
 ###Windows
 
-(1). you shoud change work-directory into the root of this project by cd command.
+(1). you shoud change work-directory into the root of this project with cd command.
 
 (2). Run Build.bat with Visual Studio 2010 x64 win64 Command Prompt(2010).
 
